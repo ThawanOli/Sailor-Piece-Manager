@@ -1,4 +1,4 @@
-Sailor Piece Manager
+# Sailor Piece Manager
 
 Uma ferramenta poderosa e intuitiva para gerenciar o trading de sets no **Sailor Piece (Roblox)**. Desenvolvida para otimizar o trade e a organização de materiais.
 
@@ -8,8 +8,18 @@ Uma ferramenta poderosa e intuitiva para gerenciar o trading de sets no **Sailor
 - **Multi-idioma:** Suporte completo para **Português** e **English**.
 - **Interface Moderna:** Desenvolvida com `customtkinter` para uma experiência visual dark e elegante.
 
-##  Como usar (Para Desenvolvedores)
-1. Clone o repositório.
-2. Instale a biblioteca necessária:
-   ```bash
-   pip install customtkinter
+## Como usar (Para Desenvolvedores)
+Clone o repositório.
+
+Instale a biblioteca necessária:
+
+```pip install customtkinter```
+
+```python main.py ```
+
+## Como usar (Para Jogadores)
+Solicite o executável ao desenvolvedor ou baixe a versão compilada.
+
+Execute o app e comece a gerenciar seu farm!
+
+Desenvolvido por Thawan Oliveira Estudante de Ciência da Computação - Unileste GitHub: @ThawanOli
