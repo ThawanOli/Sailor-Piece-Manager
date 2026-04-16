@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+meus_sets.json
+.venv/
